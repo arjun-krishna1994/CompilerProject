@@ -1,0 +1,19 @@
+int #proc(int c, float b,float f)
+{
+	return c;
+}
+
+main()
+{
+int a,b;
+float d,e;
+a=5;
+b=7;
+if(a==b)
+{
+	a= #proc(a,d,e);
+}
+else{
+	a=-2;
+}
+}
