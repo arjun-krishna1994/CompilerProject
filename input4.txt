@@ -1,0 +1,19 @@
+float #proc(int c, float b,float f)
+{
+	return c;
+}
+
+float #proc(int c, float b)
+{
+	return c;
+}
+
+
+main()
+{
+int a,b;
+float d,e;
+a=5.6;
+c=e;
+a=#proc(a,d);
+}
